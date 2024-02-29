@@ -27,7 +27,7 @@ public class Account {
     this.type = type;
   }
 
-  public float getBalance() {
+  public double getBalance() {
     return this.balance;
   }
 
